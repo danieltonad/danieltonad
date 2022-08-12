@@ -2,7 +2,6 @@
 
 - hey i am Solarin Daniel 🤖
 - i develop things with php and javascript, i play arround python too
-- i love breaking systems 
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on opensource projects
@@ -10,7 +9,7 @@
 - 💬 Ask me about PHP, Laravel, Javascript and SQL
 - 📫 How to reach me: solarindaniel2000@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love 
+- ⚡ Fun fact: i love breaking systems
 
 ### ⚙️ GitHub Analytics
 
