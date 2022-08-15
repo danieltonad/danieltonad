@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 About Me
 
 - hey i am Solarin Daniel 🤖
-- i develop things with php and javascript, i play arround python too
+- i develop things with php, c# and javascript, i play arround python too
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on opensource projects
