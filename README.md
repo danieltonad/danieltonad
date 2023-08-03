@@ -3,10 +3,10 @@
 - hey i am Solarin Daniel 🤖
 - i develop things with php, c# and javascript, i play arround python too
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Fast Api 
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with opensource projects and freelance gigs
-- 💬 Ask me about PHP, Laravel, Javascript and SQL
+- 💬 Ask me about PHP, Laravel, Python, Javascript and SQL
 - 📫 How to reach me: solarindaniel2000@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love breaking systems
