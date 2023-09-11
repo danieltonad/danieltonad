@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with opensource projects and freelance gigs
 - 💬 Ask me about PHP, Laravel, Python, Javascript and SQL
 - 📫 How to reach me: solarindaniel2000@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i love breaking systems
 
 ### ⚙️ GitHub Analytics
