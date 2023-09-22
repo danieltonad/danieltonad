@@ -1,15 +1,3 @@
-### 👨🏻‍💻 About Me
-
-- hey i am Solarin Daniel 🤖
-- i develop things with php, c#, javascript and python, I Pentest too
-- 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning Fast Api 
-- 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m looking for help with opensource projects and freelance gigs
-- 💬 Ask me about PHP, Laravel, Python, Javascript and SQL
-- 📫 How to reach me: solarindaniel2000@gmail.com
-- ⚡ Fun fact: i love breaking systems
-
 ### ⚙️ GitHub Analytics
 
 <p align="center">
